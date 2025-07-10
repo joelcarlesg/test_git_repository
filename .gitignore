@@ -1,0 +1,6 @@
+# Ignore a specific directory
+10_Gitlab_Joel
+02_Data
+
+# Ignore all .log files
+*.log
